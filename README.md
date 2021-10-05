@@ -1,0 +1,2 @@
+# beaglebone-black-doc
+readthedocs
